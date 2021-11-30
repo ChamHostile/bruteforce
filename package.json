@@ -1,0 +1,22 @@
+{
+  "name": "bruteforce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bruteforce.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChamHostile/bruteforce.git"
+  },
+  "author": "Hamza Aboudou - Chamhostile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChamHostile/bruteforce/issues"
+  },
+  "homepage": "https://github.com/ChamHostile/bruteforce#readme",
+  "dependencies": {
+    "puppeteer": "^12.0.1"
+  }
+}
